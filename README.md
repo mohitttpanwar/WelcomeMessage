@@ -144,12 +144,3 @@ By completing this project, you learn how to:
 * Handle button click events
 * Work with JSX inside JavaScript files
 
----
-
-## 📎 License
-
-This project is free to use for learning and practice purposes.
-
----
-
-✅ Happy Coding with React! ⚛️🔥
